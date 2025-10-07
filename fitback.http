@@ -1,0 +1,6 @@
+@fitback_HostAddress = http://localhost:5153
+
+GET {{fitback_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
